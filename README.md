@@ -5,7 +5,9 @@ GitHub hosts a wide array of software projects organized under different topics.
 
 Python
 Requests library (for downloading web pages)
+
 Beautiful Soup (BS4) (for parsing and extracting information from HTML)
+
 Pandas (for creating and managing data in tabular format)
 Steps:
 
